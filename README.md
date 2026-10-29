@@ -5,6 +5,7 @@
 > - 上游项目：**[dsh-fish-memory](https://github.com/Yuuyuko-uu/dsh-fish-memory)**，作者 **[Yuuyuko-uu](https://github.com/Yuuyuko-uu)**，MIT 许可
 > - 本包：`dsh-fish-memory-pro`，是上游 **v1.3.7 的改动版**（fork），只加了一件事，上游原有的功能一个没删
 > - 本仓库：<https://github.com/CODES233/dsh-jibao-plugins>（`packages/dsh-fish-memory-pro`）
+> - **灵感来源（不是代码）**：记忆分区的前缀（M 主人 / P 约定 / C 续缘 / R 喜好 / T 时间线 / X0 工作 / X1 家人）、模型写的记忆先进待审队列、按时间的多档遗忘 —— 这三样是照一个抖音视频里演示的 DSH 插件「可塑性记忆」的思路重写的，代码一行没抄（那边是独立的实现）。原作者和仓库我在 GitHub 上没搜到；如果这是你的项目，说一声，我把链接和署名补在这里。
 >
 > 下面整篇文档**绝大部分是上游的原文**（装法、设置页、参数、机制都在说上游那套），
 > 只有「这个版本改了什么」这一节是改动版加的。上游更新时请先回那边看。
